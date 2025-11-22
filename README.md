@@ -1,53 +1,106 @@
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=JUSTIN%20OEKOEK&fontSize=80&fontAlignY=40&desc=Software%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=65&descSize=25&animation=fadeIn" width="100%" />
+</div>
 
-  <br/><br/>
-
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=600&lines=SYSTEM+ONLINE...;USER:+JUSTIN;LEVEL:+UNLOCKED;BUILDING+THE+FUTURE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A968F5&center=true&vCenter=true&width=435&lines=Building+the+digital+future;Turning+coffee+into+code;Exploring+new+technologies;Always+learning,+always+growing" alt="Typing SVG" />
   </a>
+</div>
 
-  <br/>
+<br/>
 
-  <p>
-    <a href="https://instagram.com/justinoekoek" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="mailto:justinoekoek@icloud.com">
-      <img src="https://img.shields.io/badge/Email-justinoekoek%40icloud.com-0078D4?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/justinoekk">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </p>
+<div align="center">
+  <a href="https://github.com/justinoekk">
+    <img src="https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/justinoekoek">
+    <img src="https://img.shields.io/badge/INSTAGRAM-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:justinoekoek@icloud.com">
+    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-0078D4?style=for-the-badge&logo=icloud&logoColor=white" />
+  </a>
+</div>
 
-  ---
+<br/>
 
-  ### ⚡ **Tech Arsenal**
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,git,github,vscode,linux,docker,figma&perline=8&theme=dark" />
-    </a>
-  </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=justinoekk&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="justinoekk" />
+</div>
 
-  <br/>
+<hr/>
 
-  ### 📊 **Mission Stats**
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=justinoekk&show_icons=true&theme=transparent&hide_border=false&title_color=00F0FF&text_color=fff&icon_color=00F0FF&bg_color=0d1117&count_private=true" height="160" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinoekk&layout=compact&theme=transparent&hide_border=false&title_color=00F0FF&text_color=fff&card_width=320&bg_color=0d1117" height="160" />
-  </div>
+## ⚡ **Who Am I?**
 
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justinoekk&theme=highcontrast&hide_border=true&background=0d1117&ring=00F0FF&fire=00F0FF&currStreakNum=fff" alt="streak" />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="180">
 
+I am **Justin**, a passionate developer who loves to build things that live on the internet. My goal is to always build products that provide pixel-perfect, performant experiences.
+
+* 🔭 I’m currently working on **Cool Projects**
+* 🌱 I’m currently learning **Advanced Systems & AI**
+* 👯 I’m looking to collaborate on **Open Source Projects**
+* 💬 Ask me about **Tech, Gaming, and Life**
+* ⚡ Fun fact: **I can code for 10 hours straight with enough coffee.**
+
+<br clear="right"/>
+
+<hr/>
+
+## 🏆 **Achievements**
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=justinoekk&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
+
+<br/>
+
+## 🛠️ **The Arsenal (Tech Stack)**
+
+### 🎨 **Frontend Core**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,figma&theme=dark&perline=10" />
+</p>
+
+### ⚙️ **Backend & Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mysql,postgres,mongodb,firebase,supabase&theme=dark&perline=10" />
+</p>
+
+### 🔧 **Tools & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash,postman,vercel,netlify&theme=dark&perline=10" />
+</p>
+
+<hr/>
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justinoekk&theme=midnight-purple&hide_border=true" alt="streak" />
+  
   <br/><br/>
 
-  <img src="https://github.com/justinoekk/justinoekk/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=justinoekk&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinoekk&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="180" alt="languages" />
 
-  <br/><br/>
+</div>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<br/>
+
+## 🐍 **Contribution History**
+<div align="center">
+  <img src="https://github.com/justinoekk/justinoekk/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake-animation" />
+</div>
+
+<br/>
+
+<hr/>
+
+<div align="center">
+  <h3><i>"The only way to do great work is to love what you do."</i></h3>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=0:24243e,100:0f0c29"/>
 </div>
