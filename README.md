@@ -107,7 +107,7 @@ I am **Justin**, a passionate developer who loves to build things that live on t
 
 ## 🗺️ Visitor Map
 <div align="center">
-  <a href="[https://mapmyvisitors.com/web/1bdb0](https://mapmyvisitors.com/web/1c0t6)">
+  <a href="https://mapmyvisitors.com/web/1c0t6">
     <img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=n&d=justinoekk-github-visitor-log&co=2d2b55&ct=ffffff"/>
   </a>
 </div>
